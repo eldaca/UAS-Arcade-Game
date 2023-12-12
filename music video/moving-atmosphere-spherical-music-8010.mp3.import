@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/moving-atmosphere-spherical-music-8010.mp3-01687cd100f2cda235c0f876b571b7c5.mp3str"
+
+[deps]
+
+source_file="res://music video/moving-atmosphere-spherical-music-8010.mp3"
+dest_files=[ "res://.import/moving-atmosphere-spherical-music-8010.mp3-01687cd100f2cda235c0f876b571b7c5.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

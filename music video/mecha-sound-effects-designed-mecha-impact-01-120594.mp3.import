@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mecha-sound-effects-designed-mecha-impact-01-120594.mp3-b7428de51531ac7b2b7dab1c1f749e80.mp3str"
+
+[deps]
+
+source_file="res://music video/mecha-sound-effects-designed-mecha-impact-01-120594.mp3"
+dest_files=[ "res://.import/mecha-sound-effects-designed-mecha-impact-01-120594.mp3-b7428de51531ac7b2b7dab1c1f749e80.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

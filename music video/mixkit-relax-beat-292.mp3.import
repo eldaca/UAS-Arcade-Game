@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mixkit-relax-beat-292.mp3-900f487ea3888b22c70b29eab5478230.mp3str"
+
+[deps]
+
+source_file="res://music video/mixkit-relax-beat-292.mp3"
+dest_files=[ "res://.import/mixkit-relax-beat-292.mp3-900f487ea3888b22c70b29eab5478230.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

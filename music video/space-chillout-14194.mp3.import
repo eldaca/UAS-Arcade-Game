@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/space-chillout-14194.mp3-dbb3bf7fbbc1b9793f302f3a1bc87911.mp3str"
+
+[deps]
+
+source_file="res://music video/space-chillout-14194.mp3"
+dest_files=[ "res://.import/space-chillout-14194.mp3-dbb3bf7fbbc1b9793f302f3a1bc87911.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

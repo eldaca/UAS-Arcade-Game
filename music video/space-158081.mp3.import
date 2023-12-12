@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/space-158081.mp3-22f0f9a43801b1d0a3e60de33dffc48c.mp3str"
+
+[deps]
+
+source_file="res://music video/space-158081.mp3"
+dest_files=[ "res://.import/space-158081.mp3-22f0f9a43801b1d0a3e60de33dffc48c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

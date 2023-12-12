@@ -1,0 +1,35 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/broken_down_concrete2_Metallic.png-574a82c8c89fccc24f3a4aac7996c919.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://textures/broken_down_concrete2_bl/broken_down_concrete2_bl/broken_down_concrete2_Metallic.png"
+dest_files=[ "res://.import/broken_down_concrete2_Metallic.png-574a82c8c89fccc24f3a4aac7996c919.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

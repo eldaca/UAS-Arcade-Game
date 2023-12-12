@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/documentary-background-music-for-crime-videos-153276.mp3-00624497055b5c7190618225062b1fa9.mp3str"
+
+[deps]
+
+source_file="res://music video/documentary-background-music-for-crime-videos-153276.mp3"
+dest_files=[ "res://.import/documentary-background-music-for-crime-videos-153276.mp3-00624497055b5c7190618225062b1fa9.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
